@@ -1,7 +1,7 @@
 
 
-// console.log("jay");
-// const myName = 'jay gupta';
+// console.log("Ashish");
+// const myName = 'Ashish Bhosle';
 // const h1 = document.querySelector('.heading-primary');
 // console.log('h1');
 
